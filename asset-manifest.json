@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.cff97103.chunk.css",
-    "main.js": "/static/js/main.d7b8bd6c.chunk.js",
-    "main.js.map": "/static/js/main.d7b8bd6c.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.17fa77db.js",
-    "runtime-main.js.map": "/static/js/runtime-main.17fa77db.js.map",
-    "static/js/2.50c82284.chunk.js": "/static/js/2.50c82284.chunk.js",
-    "static/js/2.50c82284.chunk.js.map": "/static/js/2.50c82284.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.cff97103.chunk.css.map": "/static/css/main.cff97103.chunk.css.map",
-    "static/js/2.50c82284.chunk.js.LICENSE.txt": "/static/js/2.50c82284.chunk.js.LICENSE.txt"
+    "main.css": "/rtslabs-assignment/static/css/main.cff97103.chunk.css",
+    "main.js": "/rtslabs-assignment/static/js/main.2786c270.chunk.js",
+    "main.js.map": "/rtslabs-assignment/static/js/main.2786c270.chunk.js.map",
+    "runtime-main.js": "/rtslabs-assignment/static/js/runtime-main.961c518e.js",
+    "runtime-main.js.map": "/rtslabs-assignment/static/js/runtime-main.961c518e.js.map",
+    "static/js/2.50c82284.chunk.js": "/rtslabs-assignment/static/js/2.50c82284.chunk.js",
+    "static/js/2.50c82284.chunk.js.map": "/rtslabs-assignment/static/js/2.50c82284.chunk.js.map",
+    "index.html": "/rtslabs-assignment/index.html",
+    "static/css/main.cff97103.chunk.css.map": "/rtslabs-assignment/static/css/main.cff97103.chunk.css.map",
+    "static/js/2.50c82284.chunk.js.LICENSE.txt": "/rtslabs-assignment/static/js/2.50c82284.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.17fa77db.js",
+    "static/js/runtime-main.961c518e.js",
     "static/js/2.50c82284.chunk.js",
     "static/css/main.cff97103.chunk.css",
-    "static/js/main.d7b8bd6c.chunk.js"
+    "static/js/main.2786c270.chunk.js"
   ]
 }
