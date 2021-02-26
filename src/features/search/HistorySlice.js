@@ -7,7 +7,7 @@ export const historySlice = createSlice({
     },
     reducers: {
         addSearch: (state, action) => {
-            state.value = state.value.push( action.payload )
+            state.value.unshift( action.payload );
         }
     }
 });
